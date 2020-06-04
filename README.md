@@ -23,3 +23,4 @@
 - Вся логіка проекта знаходиться по шляху **app/Http/Controllers** `MainController.php` і `TasksController.php`
 - Маршрути знаходяться по шляху **routes** в файлі `web.php`
 - Зовнішній вигляд знаходиться по шляху **resources/views** в папках `layouts` і `tasks`
+- Файли з введеним текстом а також з зворотнім текстом знаходиться по шшляху **public** файли `text.txt` і `reversedText.txt`
